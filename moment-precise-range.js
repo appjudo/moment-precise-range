@@ -127,3 +127,6 @@ if (typeof moment === "undefined" && typeof require === 'function') {
 
     };
 }(moment));
+
+module.exports = {};
+
